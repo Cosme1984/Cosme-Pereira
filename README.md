@@ -1,5 +1,4 @@
-# Cosme-Pereira
-Cosme1984/README.md
+
 ## Olá! Eu sou Cosme Pereira.
 
 <div style="display: inline_block"align="center">
